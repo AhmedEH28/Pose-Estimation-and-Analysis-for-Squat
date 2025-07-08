@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Ignore all mp4 files except results/pose.mp4
+*.mp4
+!results/pose.mp4
+
+# Ignore all .pt files except your model
+*.pt
+!yolo11n.pt
