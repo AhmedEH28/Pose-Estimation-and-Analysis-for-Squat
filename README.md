@@ -36,11 +36,10 @@ python pose_main.py
 [results/pose.mp4](results/pose.mp4)
 ![Sample Output](results/image.png)
 
-##3 Notes
+### Notes
 - For best results, use clear videos with visible full-body squats.
-- The code is structured for easy extension and integration.
 
-##3 License
+### License
 MIT License 
 
 ### 🙏 Acknowledgments
