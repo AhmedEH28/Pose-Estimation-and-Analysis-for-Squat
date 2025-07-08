@@ -34,7 +34,7 @@ python pose_main.py
 
 ### Example Output
 [results/pose.mp4](results/pose.mp4)
-[Sample Output](results/image.png)
+![Sample Output](results/image.png)
 
 ##3 Notes
 - For best results, use clear videos with visible full-body squats.
